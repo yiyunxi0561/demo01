@@ -19,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/shou.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -52,10 +52,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="791" />
-    <option name="y" value="87" />
-    <option name="width" value="1123" />
-    <option name="height" value="898" />
+    <option name="x" value="328" />
+    <option name="y" value="102" />
+    <option name="width" value="1453" />
+    <option name="height" value="888" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -130,10 +130,9 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="682" y="76" width="792" height="720" extended-state="0" />
-    <editor active="true" />
+    <frame x="263" y="82" width="1162" height="710" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17983651" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14583333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -150,7 +149,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.18537416" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.4550173" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -206,7 +205,9 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml&#10;#&#9;.idea/workspace.xml&#10;#&#9;shou.txt" />
     <MESSAGE value="主分支修改" />
     <MESSAGE value="Merge remote-tracking branch 'remotes/origin/2.0'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;shou.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'remotes/origin/2.0'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;shou.txt" />
+    <MESSAGE value="提交信息" />
+    <MESSAGE value="提交信息2" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交信息2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -236,7 +237,7 @@
     <entry file="file://$PROJECT_DIR$/shou.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
